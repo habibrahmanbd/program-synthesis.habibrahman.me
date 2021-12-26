@@ -1,3 +1,17 @@
 # Table of contents
 
 * [কোর্স ও লেখক পরিচিতি](README.md)
+* [বেসিক](basics/README.md)
+  * [প্রোগ্রাম সিন্থেসিস পরিচিতি](basics/intro\_program\_synthesis.md)
+  * [বটোম আপ সার্চ (Bottom Up Search)](basics/bottom-up-search.md)
+  * [টপ ডাউন সার্চ (Top Down Search)](basics/top-down-search.md)
+  * [গাইডেড বটোম আপ সার্চ (Guided Bottom Up Search)](basics/guided-bottom-up-search.md)
+  * [গাইডেড টপ ডাউন সার্চ (Guided Top Down Search)](basics/guided-top-down-search.md)
+  * [সকাস্টিক সার্চ (Stochastic Search)](basics/stochastic-search.md)
+* [গেম থিওরি ও প্রোগ্রাম সিন্থেসিস](program\_syntesis\_and\_game\_theory/README.md)
+  * [গেম থেওরি পরিচিতি (Introduction to Game Theory)](program\_syntesis\_and\_game\_theory/introduction-to-game-theory.md)
+  * [প্রোগ্রামাটিক স্ট্রেটেজিস (Programmatic Strategies)](program\_syntesis\_and\_game\_theory/programmatic-strategies.md)
+  * [এভুলেশনারি গেম থেওরি (Evolutionary Game Theory)](program\_syntesis\_and\_game\_theory/evolutionary-game-theory.md)
+* [সার্চিং ও লার্নিং](searching\_learning.md)
+* [অ্যাপ্লিকেশান: হিউরেস্টিক ফাংশন সিন্থেসিস](applications.md)
+* [পরিসমাপ্তি](conclusion.md)
