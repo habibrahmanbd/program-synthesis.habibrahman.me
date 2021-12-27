@@ -8,7 +8,7 @@ description: >-
 
 ### <mark style="color:orange;">**লেখক**</mark> <a href="#author" id="author"></a>
 
-[<mark style="color:blue;">**হাবিব রহমান**</mark>](https://habibrahman.me)
+[<mark style="color:blue;">**হাবীব রহমান**</mark>](https://habibrahman.me)
 
 ### <mark style="color:orange;">**লেখক পরিচিতি**</mark> <a href="#intro_author" id="intro_author"></a>
 
