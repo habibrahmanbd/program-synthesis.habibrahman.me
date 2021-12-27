@@ -31,10 +31,11 @@ $$\exists P \forall l, m: P(l) = m \implies (m \in l) \land (\forall x \in l: m 
 
 ```python
 def max_list(l):
-    mx = l[0]
-    for i in range(len(l)):
-        mx = max(l[i], mx)
-    return mx
+    m = l[0]
+    for x in l:
+        if x >= m:
+            m = x
+    return m
 ```
 
 \
